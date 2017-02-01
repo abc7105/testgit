@@ -10,6 +10,8 @@ type
   TForm1 = class(TForm)
     btn1: TButton;
     btn2: TButton;
+    btn3: TButton;
+    btn4: TButton;
   private
     { Private declarations }
   public
